@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "103865240807",
+    "firebase_url": "https://babbo-food-default-rtdb.firebaseio.com",
+    "project_id": "babbo-food",
+    "storage_bucket": "babbo-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103865240807:android:54efb352652c0865caa642",
+        "android_client_info": {
+          "package_name": "com.babbofood.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103865240807-mj11fq56929igeeovbu1222k8th55fjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.babbofood.driver",
+            "certificate_hash": "c993236717e49599beb61d568419ce2bae15808d"
+          }
+        },
+        {
+          "client_id": "103865240807-hf968l2ta7v0terieu5t60bh0728fopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAfrCIxz_GD8q3IyaWNSr6qOvJ2Xqhw78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103865240807-emq34iga7tev18uhf64c6onhfcbsf9m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103865240807-2htq8oqhj9bdnrnv7ipguajua6847pm3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.babbofood.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103865240807:android:1ec66ce5ca65242dcaa642",
+        "android_client_info": {
+          "package_name": "com.babbofood.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103865240807-hf968l2ta7v0terieu5t60bh0728fopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAfrCIxz_GD8q3IyaWNSr6qOvJ2Xqhw78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103865240807-emq34iga7tev18uhf64c6onhfcbsf9m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103865240807-2htq8oqhj9bdnrnv7ipguajua6847pm3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.babbofood.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103865240807:android:37d72d5740a2f24dcaa642",
+        "android_client_info": {
+          "package_name": "com.babbofood.restaurent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103865240807-hm05hvemgnu28lhv2i532q14unajbvhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.babbofood.restaurent",
+            "certificate_hash": "c993236717e49599beb61d568419ce2bae15808d"
+          }
+        },
+        {
+          "client_id": "103865240807-hf968l2ta7v0terieu5t60bh0728fopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAfrCIxz_GD8q3IyaWNSr6qOvJ2Xqhw78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103865240807-emq34iga7tev18uhf64c6onhfcbsf9m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103865240807-2htq8oqhj9bdnrnv7ipguajua6847pm3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.babbofood.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

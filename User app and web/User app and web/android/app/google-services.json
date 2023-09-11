@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "103865240807",
+    "project_id": "babbo-food",
+    "storage_bucket": "babbo-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103865240807:android:54efb352652c0865caa642",
+        "android_client_info": {
+          "package_name": "com.babbofood.babbofood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103865240807-emq34iga7tev18uhf64c6onhfcbsf9m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAfrCIxz_GD8q3IyaWNSr6qOvJ2Xqhw78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103865240807-emq34iga7tev18uhf64c6onhfcbsf9m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103865240807-2htq8oqhj9bdnrnv7ipguajua6847pm3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.babbofood.babbofood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
